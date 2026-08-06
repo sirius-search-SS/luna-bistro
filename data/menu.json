@@ -1,0 +1,414 @@
+[
+  {
+    "id": "m01",
+    "category": "Appetizers",
+    "item": "Charred Aubergine Dip",
+    "description": "Smoked over vine cuttings, finished with tahini, pomegranate and warm flatbread.",
+    "price": 11,
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 1
+  },
+  {
+    "id": "m02",
+    "category": "Appetizers",
+    "item": "Crisp Artichoke Hearts",
+    "description": "Twice-fried, lemon salt, whipped feta and a scatter of mint.",
+    "price": 13,
+    "dietary": [
+      "vegetarian"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 2
+  },
+  {
+    "id": "m03",
+    "category": "Appetizers",
+    "item": "Chilli Prawn Toast",
+    "description": "Brioche, tiger prawns, bird's eye chilli and a lime crème fraîche.",
+    "price": 15,
+    "dietary": [
+      "spicy"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 3
+  },
+  {
+    "id": "m04",
+    "category": "Appetizers",
+    "item": "Beef Tartare, Cured Yolk",
+    "description": "Hand-cut sirloin, capers, shallot, mustard oil and rye crisps.",
+    "price": 17,
+    "dietary": [],
+    "popular": false,
+    "isNew": true,
+    "tone": 4
+  },
+  {
+    "id": "m05",
+    "category": "Soups",
+    "item": "Roast Tomato & Basil",
+    "description": "Slow-roasted plum tomatoes, basil oil, sourdough croutons.",
+    "price": 9,
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 2
+  },
+  {
+    "id": "m06",
+    "category": "Soups",
+    "item": "Wild Mushroom Velouté",
+    "description": "Porcini, chestnut mushroom, thyme cream and truffle drizzle.",
+    "price": 11,
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 3
+  },
+  {
+    "id": "m07",
+    "category": "Soups",
+    "item": "Spiced Coconut & Lentil",
+    "description": "Red lentil, coconut milk, toasted cumin and a chilli crackle.",
+    "price": 10,
+    "dietary": [
+      "vegan",
+      "spicy",
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 1
+  },
+  {
+    "id": "m08",
+    "category": "Salads",
+    "item": "Heritage Tomato & Burrata",
+    "description": "Six tomato varieties, Puglian burrata, basil, aged balsamic.",
+    "price": 14,
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 2
+  },
+  {
+    "id": "m09",
+    "category": "Salads",
+    "item": "Charred Broccoli & Almond",
+    "description": "Tenderstem, smoked almond, chilli, preserved lemon dressing.",
+    "price": 12,
+    "dietary": [
+      "vegan",
+      "spicy",
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 1
+  },
+  {
+    "id": "m10",
+    "category": "Salads",
+    "item": "Little Gem Caesar",
+    "description": "Anchovy dressing, sourdough crumb, aged parmesan.",
+    "price": 12,
+    "dietary": [],
+    "popular": false,
+    "isNew": false,
+    "tone": 4
+  },
+  {
+    "id": "m11",
+    "category": "Main Courses",
+    "item": "Dry-Aged Ribeye, 300g",
+    "description": "40-day aged, bone marrow butter, triple-cooked chips.",
+    "price": 38,
+    "dietary": [
+      "gluten-free"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 3
+  },
+  {
+    "id": "m12",
+    "category": "Main Courses",
+    "item": "Herb-Fed Chicken",
+    "description": "Half bird, tarragon jus, confit garlic, seasonal greens.",
+    "price": 26,
+    "dietary": [
+      "gluten-free"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 4
+  },
+  {
+    "id": "m13",
+    "category": "Main Courses",
+    "item": "Slow Lamb Shoulder",
+    "description": "Six hours in harissa and honey, whipped chickpea, herb salad.",
+    "price": 31,
+    "dietary": [
+      "spicy"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 1
+  },
+  {
+    "id": "m14",
+    "category": "Main Courses",
+    "item": "Roast Cauliflower Steak",
+    "description": "Charred whole, green harissa, pine nut and raisin dressing.",
+    "price": 21,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": true,
+    "tone": 2
+  },
+  {
+    "id": "m15",
+    "category": "Main Courses",
+    "item": "Duck Breast & Cherry",
+    "description": "Pink-roasted, morello cherry, celeriac purée, jus gras.",
+    "price": 33,
+    "dietary": [
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 3
+  },
+  {
+    "id": "m16",
+    "category": "Seafood",
+    "item": "Cornish Cod, Brown Butter",
+    "description": "Line-caught, samphire, caper and brown butter emulsion.",
+    "price": 29,
+    "dietary": [
+      "gluten-free"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 2
+  },
+  {
+    "id": "m17",
+    "category": "Seafood",
+    "item": "Grilled Octopus",
+    "description": "Charred over charcoal, smoked paprika oil, potato and olive.",
+    "price": 27,
+    "dietary": [
+      "spicy",
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 3
+  },
+  {
+    "id": "m18",
+    "category": "Seafood",
+    "item": "Seared Scallops",
+    "description": "Hand-dived, pea purée, crisp pancetta, lemon oil.",
+    "price": 26,
+    "dietary": [
+      "gluten-free"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 1
+  },
+  {
+    "id": "m19",
+    "category": "Seafood",
+    "item": "Whole Sea Bream",
+    "description": "Salt-baked for two, fennel, lemon and a herb dressing.",
+    "price": 44,
+    "dietary": [
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": true,
+    "tone": 4
+  },
+  {
+    "id": "m20",
+    "category": "Pasta",
+    "item": "Cacio e Pepe",
+    "description": "Fresh tonnarelli, pecorino romano, cracked black pepper.",
+    "price": 18,
+    "dietary": [
+      "vegetarian"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 2
+  },
+  {
+    "id": "m21",
+    "category": "Pasta",
+    "item": "Crab Linguine",
+    "description": "Devon brown and white crab, chilli, parsley, lemon.",
+    "price": 24,
+    "dietary": [
+      "spicy"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 1
+  },
+  {
+    "id": "m22",
+    "category": "Pasta",
+    "item": "Wild Mushroom Tagliatelle",
+    "description": "Hand-rolled ribbons, garlic cream, thyme, aged parmesan.",
+    "price": 20,
+    "dietary": [
+      "vegetarian"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 3
+  },
+  {
+    "id": "m23",
+    "category": "Pasta",
+    "item": "Beef Shin Pappardelle",
+    "description": "Eight-hour ragù, red wine, gremolata.",
+    "price": 23,
+    "dietary": [],
+    "popular": false,
+    "isNew": false,
+    "tone": 4
+  },
+  {
+    "id": "m24",
+    "category": "Desserts",
+    "item": "Burnt Basque Cheesecake",
+    "description": "Caramelised top, soft centre, poached quince.",
+    "price": 10,
+    "dietary": [
+      "vegetarian"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 2
+  },
+  {
+    "id": "m25",
+    "category": "Desserts",
+    "item": "Dark Chocolate Delice",
+    "description": "70% Valrhona, salted caramel, cocoa nib crumb.",
+    "price": 11,
+    "dietary": [
+      "vegetarian"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 3
+  },
+  {
+    "id": "m26",
+    "category": "Desserts",
+    "item": "Coconut Panna Cotta",
+    "description": "Set with agar, passion fruit, toasted coconut.",
+    "price": 9,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": true,
+    "tone": 1
+  },
+  {
+    "id": "m27",
+    "category": "Desserts",
+    "item": "Affogato al Caffè",
+    "description": "Vanilla bean ice cream drowned in a double espresso.",
+    "price": 7,
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 4
+  },
+  {
+    "id": "m28",
+    "category": "Drinks",
+    "item": "Luna Negroni",
+    "description": "House gin, Campari, vermouth di Torino, burnt orange.",
+    "price": 13,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "popular": true,
+    "isNew": false,
+    "tone": 3
+  },
+  {
+    "id": "m29",
+    "category": "Drinks",
+    "item": "Smoked Old Fashioned",
+    "description": "Rye whiskey, demerara, cherrywood smoke.",
+    "price": 14,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 4
+  },
+  {
+    "id": "m30",
+    "category": "Drinks",
+    "item": "Garden Spritz (0%)",
+    "description": "Alcohol-free aperitivo, elderflower, cucumber, soda.",
+    "price": 8,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "popular": false,
+    "isNew": true,
+    "tone": 2
+  },
+  {
+    "id": "m31",
+    "category": "Drinks",
+    "item": "House Red — Nero d'Avola",
+    "description": "Sicily. Plum, black pepper, soft tannin. Glass or carafe.",
+    "price": 9,
+    "dietary": [
+      "vegan"
+    ],
+    "popular": false,
+    "isNew": false,
+    "tone": 1
+  }
+]

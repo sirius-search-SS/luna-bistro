@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "table_number": "T1",
+    "capacity": 2,
+    "location": "Window",
+    "status": "cleaning"
+  },
+  {
+    "id": 2,
+    "table_number": "T2",
+    "capacity": 2,
+    "location": "Window",
+    "status": "occupied"
+  },
+  {
+    "id": 3,
+    "table_number": "T3",
+    "capacity": 2,
+    "location": "Window",
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "table_number": "T4",
+    "capacity": 4,
+    "location": "Window",
+    "status": "available"
+  },
+  {
+    "id": 5,
+    "table_number": "T5",
+    "capacity": 4,
+    "location": "Main floor",
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "table_number": "T6",
+    "capacity": 4,
+    "location": "Main floor",
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "table_number": "T7",
+    "capacity": 4,
+    "location": "Main floor",
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "table_number": "T8",
+    "capacity": 6,
+    "location": "Main floor",
+    "status": "available"
+  },
+  {
+    "id": 9,
+    "table_number": "T9",
+    "capacity": 6,
+    "location": "Main floor",
+    "status": "cleaning"
+  },
+  {
+    "id": 10,
+    "table_number": "T10",
+    "capacity": 2,
+    "location": "Bar",
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "table_number": "T11",
+    "capacity": 2,
+    "location": "Bar",
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "table_number": "T12",
+    "capacity": 4,
+    "location": "Bar",
+    "status": "available"
+  },
+  {
+    "id": 13,
+    "table_number": "T13",
+    "capacity": 4,
+    "location": "Terrace",
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "table_number": "T14",
+    "capacity": 4,
+    "location": "Terrace",
+    "status": "available"
+  },
+  {
+    "id": 15,
+    "table_number": "T15",
+    "capacity": 6,
+    "location": "Terrace",
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "table_number": "T16",
+    "capacity": 8,
+    "location": "Booth",
+    "status": "available"
+  },
+  {
+    "id": 17,
+    "table_number": "T17",
+    "capacity": 8,
+    "location": "Booth",
+    "status": "reserved"
+  },
+  {
+    "id": 18,
+    "table_number": "T18",
+    "capacity": 12,
+    "location": "Private room",
+    "status": "available"
+  }
+]

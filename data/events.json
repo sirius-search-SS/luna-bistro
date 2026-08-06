@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e1",
+    "title": "Live Music Friday",
+    "date": "2026-08-08",
+    "time": "20:00",
+    "description": "A four-piece jazz quartet takes the corner stage every Friday. No cover charge, dinner service runs as normal.",
+    "seats": 60,
+    "booked": 44,
+    "tone": 3
+  },
+  {
+    "id": "e2",
+    "title": "Wine Tasting: Southern Italy",
+    "date": "2026-08-14",
+    "time": "18:30",
+    "description": "Six pours from Puglia, Campania and Sicily, matched with small plates and led by our head sommelier.",
+    "seats": 24,
+    "booked": 21,
+    "tone": 2
+  },
+  {
+    "id": "e3",
+    "title": "Chef's Special Night",
+    "date": "2026-08-21",
+    "time": "19:00",
+    "description": "A seven-course tasting menu that never repeats, cooked and served by the kitchen team at the pass.",
+    "seats": 30,
+    "booked": 12,
+    "tone": 4
+  },
+  {
+    "id": "e4",
+    "title": "Holiday Dinner",
+    "date": "2026-09-02",
+    "time": "18:00",
+    "description": "A shared-table festive menu with mulled aperitif on arrival. Ideal for groups of six and above.",
+    "seats": 80,
+    "booked": 31,
+    "tone": 1
+  },
+  {
+    "id": "e5",
+    "title": "Pasta Masterclass",
+    "date": "2026-09-09",
+    "time": "11:00",
+    "description": "Two hours rolling, shaping and saucing with our pasta chef. You eat what you make, apron included.",
+    "seats": 16,
+    "booked": 5,
+    "tone": 2
+  },
+  {
+    "id": "e6",
+    "title": "Sunday Roast Sessions",
+    "date": "2026-08-10",
+    "time": "13:00",
+    "description": "Slow vinyl, long lunch, and a roast that lands on the table whole. Runs every Sunday through winter.",
+    "seats": 70,
+    "booked": 58,
+    "tone": 1
+  }
+]
