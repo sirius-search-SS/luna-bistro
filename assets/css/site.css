@@ -32,6 +32,8 @@
 }
 .nav-links a:hover { background: var(--surface-alt); color: var(--text); }
 .nav-links a[aria-current="page"] { color: var(--brand); font-weight: 600; }
+.nav-links a.btn { color: var(--btn-fg); }
+.nav-links a.btn:hover { color: var(--btn-fg); background: var(--btn-bg); }
 .nav-toggle { display: none; }
 
 @media (max-width: 900px) {
